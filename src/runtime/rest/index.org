@@ -6,12 +6,13 @@
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil
 
-The CODE package hold two modules
+The CODE package hold five modules
 
- - [[./P2.org][=P1=]]
- - [[./P3.org][=P2=]]
- - [[./P4.org][=P3=]]
- - [[./P5.org][=P5=]]
+ - [[./vector-sum.org][=vector-sum=]]
+ - [[./list-sum.org][=list-sum=]]
+ - [[./list-length.org][=list-length=]]
+ - [[./member.org][=member=]]
+ - [[./map-sqr.org][=map-sqr=]]
 
 
 
